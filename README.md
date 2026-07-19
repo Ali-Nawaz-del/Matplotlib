@@ -25,22 +25,6 @@ A collection of Jupyter notebooks documenting my journey learning data visualiza
 - Vector visualization with NumPy + `ax.quiver`
 - Plot styling: colors, markers, labels, legends, grids, axis limits
 
-## 🚀 Getting Started
-
-Clone the repo and install the dependencies:
-
-```bash
-git clone https://github.com/Ali-Nawaz-del/Matplotlib
-cd Matplotlib
-pip install matplotlib numpy jupyter
-```
-
-Then launch Jupyter and open any notebook:
-
-```bash
-jupyter notebook
-```
-
 ## 📌 About
 
 These notebooks are part of my self-directed learning as I build toward a career as an **AI/ML Engineer**. I'm documenting my progress here and sharing highlights on www.linkedin.com/in/ali-nawaz-a5b240341
