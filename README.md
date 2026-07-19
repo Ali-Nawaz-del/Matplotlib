@@ -43,4 +43,4 @@ jupyter notebook
 
 ## 📌 About
 
-These notebooks are part of my self-directed learning as I build toward a career as an **AI/ML Engineer**. I'm documenting my progress here and sharing highlights on [LinkedIn](www.linkedin.com/in/ali-nawaz-a5b240341).
+These notebooks are part of my self-directed learning as I build toward a career as an **AI/ML Engineer**. I'm documenting my progress here and sharing highlights on www.linkedin.com/in/ali-nawaz-a5b240341
