@@ -30,8 +30,8 @@ A collection of Jupyter notebooks documenting my journey learning data visualiza
 Clone the repo and install the dependencies:
 
 ```bash
-git clone https://github.com/<your-username>/matplotlib-practice.git
-cd matplotlib-practice
+git clone https://github.com/Ali-Nawaz-del/Matplotlib
+cd Matplotlib
 pip install matplotlib numpy jupyter
 ```
 
@@ -43,8 +43,4 @@ jupyter notebook
 
 ## 📌 About
 
-These notebooks are part of my self-directed learning as I build toward a career as an **AI/ML Engineer**. I'm documenting my progress here and sharing highlights on [LinkedIn](https://www.linkedin.com).
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
+These notebooks are part of my self-directed learning as I build toward a career as an **AI/ML Engineer**. I'm documenting my progress here and sharing highlights on [LinkedIn](www.linkedin.com/in/ali-nawaz-a5b240341).
